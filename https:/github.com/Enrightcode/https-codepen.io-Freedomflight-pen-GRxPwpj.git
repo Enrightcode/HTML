@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="montserrat">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meagan Enright</title>
+  </head>
+  <body>
+    <main>
+      <!-- ***********************  ABOUT / PROFILE  *********************** -->
+      
+      <header>
+        <div class = "contentwrap">
+        
+          <center>
+          <h1>Meagan Enright</h1>
+          <h2>Dear Gartner</h2>
+          <p>I'm ready to work for you.</p>
+          <p>My passion is learning new software and researching emerging technologies.
+          </center>
+      </div>  
+        </header>
+
+        <!-- ********************  PROJECTS / PORTFOLIO  ********************* -->
+     <section id = "thesis">
+           <div class = "contentwrap">
+             <h4>Thesis Project</h4>
+               <p4>View my award-winning thesis project below</p4>
+       </div></section>
+          <section>
+             <div class="contentwrap">
+            <h2> Meta Materials</h2>
+                  <section class = "project-item2">
+                    <img src="https://assets.codepen.io/8689131/fibres.jpg" alt="fibres"> 
+            <p5> <div>Thesis project on Innovative Materials and Their Possible Applications in Construction:</p5></div>
+        <div>   <a href="https://meta-materials.webflow.io/" target="_blank">Meta Materials</a> </div> </section>
+          
+
+          </section>
+          <!-- End of Project block. -->
+     
+<section>
+        <!-- ***********************  WORK EXPERIENCE  *********************** -->
+        <section id ="work">
+          <div class = "contentwrap">
+          <h2>Work Experience</h2>
+             <h2>Enright Design Founder</h2>
+            <p3>Founded in 2020</p3><br></br>
+            <p3>Optimization of Architectural Projects through Technology</p3>
+  <br></br><p3>Main Role</p3>
+            <ul>
+              <p3><li>Company Strategy and Growth</li>
+                <li>Contract Negotiation</li></p3>
+              <li>Project Management</li>
+              
+<h2>Ledcor - Project Coordinator</h2>
+             <p3>2019-2020</p3>
+           
+  <br></br><p3>Projects:</p3>
+            <ul>
+              <p3><li>1133 Melville Street, Vancouver. Budget: 252 Million.</li>
+                 <p3><li>Bentall Plaza, Vancouver. Budget: 25 Million.</li>
+                   <p3><li>Procurement of materials, management and scheduling of subcontractors and deliveries, LEED energy efficiency and sustainability tracking, carbon offset tracking, liasing with stakeholders and government authorities, client meetings.</p3></li>
+            </ul><br>
+
+          </section>
+          <!-- End of Job block. -->
+
+        <!-- * EDUCATION -->
+  <center><h2>Education</h2></center>
+              <section class = "education">
+                <div class = "names of schools">
+            <h2>Institute of Advanced Architecture <br>Polytechnic University of Barcelona - Barcelona, Spain </h2>    <p>Master's in Advanced Architecture - 2022</p>
+                <h2>British Columbia Institute of Technology - Canada</h2>
+                </div>
+    <div><p>Bachelor's in Construction Management Technology with Honours</br><br>
+              Diploma in Architectural Technology </p></br></div>
+                 <section class = "education">
+                <div class "degrees">
+                  
+               
+
+            
+          
+            </section>
+
+          <!-- End of School block. -->
+
+        <!-- *****************  CONTACT INFO / SOCIAL MEDIA  ***************** -->
+        <footer>
+          <div class = "contentwrap">
+          <h2>Stay in touch</h2>
+          <br>
+          <ul>
+            <li><a href="mailto:megan.enric@gmail.com"
+              target="_blank">megan.enric@gmail.com</a></li>
+<li> +34 607 531 902
+  <li> +1 205 622 8239
+           
+           
+        </ul>
+          </br>
+      </div>
+</div>
+    </main>
+  </body>
+</html>
