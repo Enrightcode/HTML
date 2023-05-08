@@ -14,7 +14,7 @@
         
           <center>
           <h1>Meagan Enright</h1>
-          <h2>Dear Gartner</h2>
+          <h2>Dear Tech Companies,</h2>
           <p>I'm ready to work for you.</p>
           <p>My passion is learning new software and researching emerging technologies.
           </center>
@@ -31,7 +31,9 @@
              <div class="contentwrap">
             <h2> Meta Materials</h2>
                   <section class = "project-item2">
-                    <img src="https://assets.codepen.io/8689131/fibres.jpg" alt="fibres"> 
+             <figure> <img src="https://assets.codepen.io/8689131/fibres.jpg" alt="fibres">  <figcaption>Supramolecular Fibres</figcaption>
+</figure>
+<figure style="--c:#fff5">
             <p5> <div>Thesis project on Innovative Materials and Their Possible Applications in Construction:</p5></div>
         <div>   <a href="https://meta-materials.webflow.io/" target="_blank">Meta Materials</a> </div> </section>
           
